@@ -1,0 +1,11 @@
+#忽略所有文件夹和文件，必须放在开头
+/*
+#排除src文件夹
+!/.gitignore
+#排除src文件夹
+!/src
+#排除docs文件
+!/LICENSE
+#排除README.md文件
+!/README.md
+
